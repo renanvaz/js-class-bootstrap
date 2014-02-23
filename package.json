@@ -1,0 +1,33 @@
+{
+  "name": "js-class-bootstrap",
+  "version": "1.0.0",
+  "description": "Would like to extend a class in javascript in a practical way?",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renanvaz/js-class-bootstrap"
+  },
+  "keywords": [
+    "javascript",
+    "class",
+    "extends",
+    "initialize"
+  ],
+  "author": "Renan Vaz <renan.c.vaz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renanvaz/js-class-bootstrap/issues"
+  },
+  "homepage": "https://github.com/renanvaz/js-class-bootstrap",
+  "devDependencies": {
+    "gulp-uglify": "~0.2.1",
+    "gulp-concat": "~2.1.7",
+    "gulp": "~3.5.2"
+  }
+}
