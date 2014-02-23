@@ -42,7 +42,7 @@ Build project
 
 ```bash
 # File will be build into ./build/js/class.min.js
-gulp
+$ gulp
 ```
 
 
