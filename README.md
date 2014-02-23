@@ -33,7 +33,7 @@ var o = new Test2();
 Install project
 
 ```bash
-$ git@github.com:renanvaz/js-class-bootstrap.git clone
+$ git git@github.com:renanvaz/js-class-bootstrap.git clone
 $ cd js-class-bootstrap
 $ npm install
 ```
