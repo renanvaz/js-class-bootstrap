@@ -17,7 +17,7 @@ var Test1 = Class.extend({
 });
 
 // Extends class Test1 to Test2
-var Teste2 = Teste1.extend({
+var Test2 = Test1.extend({
     init: function(){
         this.super.init();
         console.log('init 2');
@@ -25,7 +25,7 @@ var Teste2 = Teste1.extend({
 });
 
 // Create object of Test2 (init method is the constructor and will be called automatically)
-var o = new Teste2();
+var o = new Test2();
 ```
 
 ## Want contribute?
