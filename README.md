@@ -2,7 +2,7 @@
 
 Would like to extend a class in javascript in a practical way?
 
-This project has two simple features:
+This project has simple features:
 - Class.extend method
 - Parent access from "this.super" property.
 - Constructor is a prototype method "init"
