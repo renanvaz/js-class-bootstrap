@@ -1,7 +1,7 @@
 
-function Class (){}
+function Class () {}
 
-Class.prototype.init = function(){ };
+Class.prototype.init = function () {};
 
 Class.extend = function (p) {
     var i,
